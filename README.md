@@ -1,5 +1,5 @@
-# ExamenFinal
-##Conclusiones##
+# ExamenFinal Conclusiones
+
 **¿Cuál fue el motivo de elegir tu base de datos?**
 
 La razón por la que escogimos esta base de datos es porque desde que eramos  chicas nos gustaba ver la F1, y nos encantaría saber más a detalle las probabilidades que existen dentro de este deporte, como por ejemplo, la probabilidad de que un nuevo piloto tenga éxito dentro de este deporte tan riesgoso. Durante los años, nos hemos dado cuenta que es sumamente difícil triunfar dentro de la F1. Tienes que tener un talento natural para el deporte, a parte de tener muchísima suerte de que la correcta escudería te quiera contratar. Son muchos factores que se deben tomar en cuenta para saber que tanto éxito puedes llegar a tener, nosotras en base a los años de experiencia y las veces que han ganado antiguos pilotos, sacamos la probabilidad de que un nuevo piloto le pueda ir bien en el futuro.
